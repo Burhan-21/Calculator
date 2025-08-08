@@ -1,4 +1,4 @@
-# Java Console Calculator
+# Calculator
 
 Welcome! This is a **console-based calculator** written in Java 17 (works perfectly on Java 18 too), built for the Elevate Labs Java Developer Internship Task 1. The project helped me learn the basics of Java syntax, console input/output, and all about methods and loops!
 
@@ -127,6 +127,3 @@ Goodbye!
 
 This code is a learning project. Do anything you want with it.
 
----
-
-**Made with ❤️ and a lot of trial-and-error for Elevate Labs, August 2025.**
